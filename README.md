@@ -1,4 +1,4 @@
 # Simple Linear Regression
 
 
-This is a supervised machine learning model implementing simple linear regressions using the gradient descent algorithm.
+This is a supervised machine learning model implementing simple linear regression using the gradient descent algorithm.
